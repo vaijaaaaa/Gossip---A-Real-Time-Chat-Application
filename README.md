@@ -38,6 +38,10 @@ Gossip is a real-time chat application built with a modern tech stack. It featur
 ![Screenshot 2024-12-31 225724](https://github.com/user-attachments/assets/9d7d42a9-8902-4d36-996e-b690611cc453)
 --Settings Page
 ![Screenshot 2024-12-31 225741](https://github.com/user-attachments/assets/082467f1-1ddb-4a2d-9703-a1f9b09120a1)
+--Profile Page
+![Screenshot 2024-12-31 230933](https://github.com/user-attachments/assets/756d9bae-bc75-46f2-8791-45f1c8b33fdc)
+--Home Page
+![Screenshot 2024-12-31 230846](https://github.com/user-attachments/assets/2af479ba-3363-4364-b181-8f5fdb4a80ec)
 
 ## Getting Started
 
